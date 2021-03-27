@@ -1,0 +1,1 @@
+ptr is a pointer to integer,p is not/structures/Function/NULL/struct/None of the mentioned/Compile time error/-1/end/

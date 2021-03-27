@@ -1,0 +1,1 @@
+int __a3/ int __3a/ int __A3/None of the mentioned/int _a3/int a_3/int 3_a/int_3a/LowerCase letters/UpperCase letters/CamelCase letters/None of the mentioned/int number/float rate/ int variable_count/int $main/f1=1.0/f1=0.1/f1=0.0/f1=1.1/I1=5.1/I1=0.1/I1=6/I1=5/-/-/-/-/
